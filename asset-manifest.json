@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gems_for_the_heart/static/css/main.a8a2b9e6.css",
+    "main.js": "/gems_for_the_heart/static/js/main.922966b3.js",
+    "static/js/787.e517b7b9.chunk.js": "/gems_for_the_heart/static/js/787.e517b7b9.chunk.js",
+    "static/media/uthmani-font.ttf": "/gems_for_the_heart/static/media/uthmani-font.792e51af6f5013a63411.ttf",
+    "index.html": "/gems_for_the_heart/index.html",
+    "main.a8a2b9e6.css.map": "/gems_for_the_heart/static/css/main.a8a2b9e6.css.map",
+    "main.922966b3.js.map": "/gems_for_the_heart/static/js/main.922966b3.js.map",
+    "787.e517b7b9.chunk.js.map": "/gems_for_the_heart/static/js/787.e517b7b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8a2b9e6.css",
+    "static/js/main.922966b3.js"
+  ]
+}
